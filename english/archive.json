@@ -80,5 +80,87 @@
       "en": "I'm going to call it a day.",
       "ko": "오늘은 이만 마무리할게."
     }
+  ],
+  "2026-11-28": [
+    {
+      "en": "Did you sleep well?",
+      "ko": "잘 잤어?"
+    },
+    {
+      "en": "I forgot to set my alarm.",
+      "ko": "알람 맞추는 걸 깜빡했어."
+    },
+    {
+      "en": "Where did I put my keys?",
+      "ko": "내가 열쇠를 어디에 뒀지?"
+    },
+    {
+      "en": "It looks like rain.",
+      "ko": "비가 올 것 같아."
+    },
+    {
+      "en": "You can borrow my umbrella.",
+      "ko": "내 우산 빌려 써도 돼."
+    },
+    {
+      "en": "Is this seat taken?",
+      "ko": "여기 자리 있나요?"
+    },
+    {
+      "en": "Does this bus stop at City Hall?",
+      "ko": "이 버스 시청에 서나요?"
+    },
+    {
+      "en": "Let me know when we get there.",
+      "ko": "도착하면 알려줘."
+    },
+    {
+      "en": "My phone is almost out of battery.",
+      "ko": "휴대폰 배터리가 거의 다 됐어."
+    },
+    {
+      "en": "Is there an outlet nearby?",
+      "ko": "근처에 콘센트가 있나요?"
+    },
+    {
+      "en": "Could you turn the volume down a little?",
+      "ko": "소리 좀 줄여 주실 수 있나요?"
+    },
+    {
+      "en": "I need some fresh air.",
+      "ko": "바람 좀 쐬어야겠어."
+    },
+    {
+      "en": "We are out of milk.",
+      "ko": "우유가 다 떨어졌어."
+    },
+    {
+      "en": "These apples are on sale.",
+      "ko": "이 사과들 할인 중이야."
+    },
+    {
+      "en": "Do you need a receipt?",
+      "ko": "영수증 필요하세요?"
+    },
+    {
+      "en": "Please leave the package by the door.",
+      "ko": "택배는 문 옆에 놓아 주세요."
+    },
+    {
+      "en": "The sink is clogged.",
+      "ko": "싱크대 배수구가 막혔어."
+    },
+    {
+      "en": "Be careful, the floor is slippery.",
+      "ko": "바닥이 미끄러우니까 조심해."
+    },
+    {
+      "en": "Thanks for giving me a ride.",
+      "ko": "차로 태워 줘서 고마워."
+    },
+    {
+      "en": "I had a great time today.",
+      "ko": "오늘 정말 즐거웠어."
+    }
   ]
 }
